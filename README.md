@@ -11,10 +11,6 @@
 
 ## About zkSync
 
-zkSync is a trustless protocol for scalable low-cost payments on Ethereum, powered by [zkRollup technology](https://zksync.io/faq/tech.html#zk-rollup-architecture). It uses
-zero-knowledge proofs and on-chain data availability to keep users' funds as safe as though they never left the mainnet.
+zkSync是以太坊上可扩展的低成本支付的无信任协议，由zkRollup技术驱动。它使用零知识证明和链上数据可用性，以保持用户的资金安全，就像他们从未离开主网一样。
 
-While security is our paramount priority, user and developer experience are central to zkSync design. We obsessively seek out improvements that eliminate friction and complexity in
-order to make zkSync the most enjoyable platform on Ethereum, for both end-users and builders. The best way to get an impression about it is
-to [try out zkSync](https://wallet.zksync.io/)
-yourself — it should only take 2 minutes.
+虽然安全是我们的首要任务，但用户和开发者体验是zkSync设计的核心。我们执着地寻求消除摩擦和复杂性的改进，以使zkSync成为以太坊上最令人愉快的平台，无论是最终用户还是建设者。对它有印象的最好方法是自己尝试一下zkSync - 它应该只需要2分钟。
